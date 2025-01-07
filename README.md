@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/iamsabbiralam/Go-Library-Management-Project.git
+https://github.com/themrgeek/Go-Library-Management-Project-master
 Navigate to the project directory:
 
 bash
